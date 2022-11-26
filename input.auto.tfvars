@@ -12,11 +12,11 @@ subnetcidr = ["10.0.0.0/25"]
 
 keyvault_rg = "aksdemo-rg"
 
-keyvault_name = "aksdemocluster2-kv"
+keyvault_name = "aksdemocluster3-kv"
 
 azure_region = "southeastasia"
 
-resource_group = "aksdemocluster-rg"
+resource_group = "aksdemo-rg"
 
 cluster_name = "aksdemocluster"
 

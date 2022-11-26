@@ -1,15 +1,15 @@
 #### Parameters
 
-$keyvaultname = "xxxxx"
-$location = "xxxxx"
-$keyvaultrg = "xxxxxxx"
-$sshkeysecret = "xxxxx"
-$spnclientid = "xxxxxx"
-$clientidkvsecretname = "xxxxxx"
-$spnclientsecret = "xxxxxx"
-$spnkvsecretname = "xxxxx"
-$spobjectID = "xxxxx"
-$userobjectid = "xxxxx"
+$keyvaultname = "aksdemocluster3-kv"
+$location = "southeastasia"
+$keyvaultrg = "aksdemo-rg"
+$sshkeysecret = "akssshpubkey"
+$spnclientid = "996bbb48-b268-4b01-a45c-7b4ccbb2961b"
+$clientidkvsecretname = "spn-id"
+$spnclientsecret = "i-t8Q~4D1vu6k0bwICZdHIGTOmtiTnjrdx5FpaqL"
+$spnkvsecretname = "spn-secret"
+$spobjectID = "996bbb48-b268-4b01-a45c-7b4ccbb2961b"
+$userobjectid = "996bbb48-b268-4b01-a45c-7b4ccbb2961b"
 
 
 #### Create Key Vault
