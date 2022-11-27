@@ -2,7 +2,7 @@
 
 $keyvaultname = "aksdemocluster10-kv"
 $location = "southeastasia"
-$keyvaultrg = "aksdemorg"
+$keyvaultrg = "aksdemo-rg"
 $sshkeysecret = "akssshpubkey"
 $spnclientid = "996bbb48-b268-4b01-a45c-7b4ccbb2961b"
 $clientidkvsecretname = "spn-id"
