@@ -1,6 +1,6 @@
 #### Parameters
 
-$keyvaultname = "aksdemocluster10-kv"
+$keyvaultname = "aksdemocluster11-kv"
 $location = "southeastasia"
 $keyvaultrg = "aksdemo-rg"
 $sshkeysecret = "akssshpubkey"
